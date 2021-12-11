@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 개발자를 지망하는 이희철입니다. 👋
 
 <!--
 **Chuul/Chuul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,8 @@
 ### 안녕하세요 개발자를 지망하는 이희철입니다. 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chuul)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **Chuul/Chuul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

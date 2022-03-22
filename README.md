@@ -1,4 +1,6 @@
-### Wanna Be web front-end developer👋
+## :punch: Chuul
+
+Wanna Be web front-end developer👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chuul)](https://github.com/anuraghazra/github-readme-stats)
 
